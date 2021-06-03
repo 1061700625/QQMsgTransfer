@@ -1,0 +1,8 @@
+{
+  "auth_key": "1061700625",
+  "bind_qq":  "3126229950",
+  "sleep_time": 1,
+  "receive_groups": ["913182235", "977307922"],
+  "send_groups": ["913182235", "977307922"],
+  "debug_level": "debug"
+}
